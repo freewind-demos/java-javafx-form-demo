@@ -1,5 +1,5 @@
-JavaFX Hello World Demo
-=======================
+JavaFX Form Demo
+================
 
-Show a window with `Hello, JavaFX` label.
+A login form with username/password/button.
 
